@@ -1,4 +1,4 @@
-# Marketing Package
+# RFM Analysis Package
 
 This Python package provides an easy-to-use implementation of RFM (Recency, Frequency, Monetary) analysis, a customer segmentation technique that uses past purchase behavior to divide customers into groups. It uses the customer transaction data to  divide the customers into three groups based on their RFM scores: Champions, Potential Loyalists and Risky Customers.
 
